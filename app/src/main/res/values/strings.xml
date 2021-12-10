@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjerciciosBasicosMMGG</string>
+    <string-array name="spOperaciones">
+        <item>Sumar</item>
+        <item>Restar</item>
+        <item>Multiplicar</item>
+    </string-array>
+    <string-array name="spAgenda">
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+</resources>
